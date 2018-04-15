@@ -2,3 +2,5 @@
 geth
 geth.ipc
 keystore
+history
+password.txt
